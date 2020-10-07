@@ -1,0 +1,4 @@
+blogdown::html_pages:
+  toc: true
+  dev: "svg"
+  highlight: breezedark
